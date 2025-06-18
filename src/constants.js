@@ -245,7 +245,7 @@ export const projects = [
     "CSS",
     "JavaScript",
   ],
-  github: "https://github.com/nitishshah2002/job-seeking-application", // replace with actual repo if different
+  github: "https://github.com/nitishshah2002/JobZee", // replace with actual repo if different
   webapp: "https://jobzeeportal.netlify.app/", // replace with actual deployed link
 },
 
